@@ -40,5 +40,7 @@ After you have your script alias, run ```npm run dev``` to start webpack server 
 
 ##External Resources
 [LearnCode.Academy](https://www.youtube.com/watch?v=9kJVYpOqcVU)
+
 [^^Github Repo](https://gist.github.com/learncodeacademy/25092d8f1daf5e4a6fd3)
+
 [Webpack Docs](https://webpack.github.io/docs/)
