@@ -26,3 +26,19 @@ module.exports = {
     }
 }
 ```
+##Webpack Developer Server
+```npm install -S webpack-dev-server```
+Webpack Developer Server tracks changes inside your javascript file.
+```
+"devDependencies": {},
+"scripts": {
+  "dev": "webpack-dev-server --content-base src --inline --hot",
+  "test": "jasmine-node spec --verbose"
+},
+```
+After you have your script alias, run ```npm run dev``` to start webpack server and watch for changes
+
+##External Resources
+[LearnCode.Academy](https://www.youtube.com/watch?v=9kJVYpOqcVU)
+[^^Github Repo](https://gist.github.com/learncodeacademy/25092d8f1daf5e4a6fd3)
+[Webpack Docs](https://webpack.github.io/docs/)
